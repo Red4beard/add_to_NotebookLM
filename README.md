@@ -142,7 +142,7 @@ The "Add as PDF" button captures a full page snapshot and uploads it to Notebook
 | Channel | Adds visible channel videos |
 | Video (comments) | Parses and sends comments to notebook |
 
-## License
+## License 
 
 MIT — free to use, modify, and distribute.
 
